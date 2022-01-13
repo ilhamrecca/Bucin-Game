@@ -12,7 +12,7 @@ Menu start menjadi tujuan utama dari Bucin Game ini. Pada window ini akan muncul
 2. Terdapat time yang akan menentukan high score dimana player akan mendapatkan nilai yang tinggi apabila dapat menyelesaikan permainan dengan cepat.
 3. Permainan akan berhenti (kembali pada menu utama) apabila salah satu player
 4. Permainan akan selesai apabila kedua pemain dapat menyelesaikan seluruh level permainan. Ketika telah selesai, maka akan tampil fitur untuk memasukkan nama dari kedua pemain dan menampilkan score yang didapatkan oleh kedua pemain tersebut. 
-![image](https://user-images.githubusercontent.com/66727521/149262137-52c93565-a465-45da-8a70-5f8ba29d903d.png)
+
 
 
 
